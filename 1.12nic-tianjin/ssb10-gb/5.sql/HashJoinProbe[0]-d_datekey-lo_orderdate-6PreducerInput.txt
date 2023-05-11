@@ -1,0 +1,240 @@
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16791,32,545784
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16639,32,540844
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16860,32,548040
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16405,32,533236
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16628,32,540500
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16645,32,541060
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16656,32,541412
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16678,32,542124
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16544,32,537764
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16584,32,539064
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16702,32,542904
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16686,32,542376
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16755,32,544636
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16372,32,532172
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16657,32,541444
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16647,32,541100
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16579,32,538900
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16672,32,541932
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16654,32,541340
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16528,32,537244
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16441,32,534412
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16731,32,543836
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16867,32,548256
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16739,32,544104
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,17004,32,552708
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16743,32,544228
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16707,32,543068
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,17034,32,553684
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16529,32,537280
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16858,32,547968
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16823,32,546820
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16796,32,545952
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16480,32,535696
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16825,32,546908
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16769,32,545080
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16539,32,537608
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16889,32,548976
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16821,32,546772
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16820,32,546728
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16901,32,549364
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,17109,32,556116
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16479,32,535660
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16423,32,533840
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16628,32,540500
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16701,32,542872
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16814,32,546524
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16313,32,530252
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16680,32,542176
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16325,32,530644
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,17048,32,554152
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16585,32,539100
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16554,32,538084
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16785,32,545600
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16699,32,542808
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16602,32,539644
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16487,32,535912
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16658,32,541476
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16963,32,551400
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16747,32,544348
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16420,32,533736
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16715,32,543324
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16837,32,547292
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16803,32,546192
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16852,32,547768
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16799,32,546048
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16770,32,545120
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16680,32,542188
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16579,32,538908
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16386,32,532632
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16778,32,545384
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16572,32,538668
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16977,32,551852
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16793,32,545856
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16635,32,540720
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16869,32,548324
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16507,32,536556
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16741,32,544176
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16907,32,549576
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16380,32,532456
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,17109,32,556136
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16657,32,541436
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16663,32,541636
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16665,32,541696
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16657,32,541448
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16861,32,548056
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16988,32,552188
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16284,32,529332
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16545,32,537796
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16746,32,544328
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16612,32,539980
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,17179,32,558396
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16413,32,533496
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16916,32,549856
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16705,32,542992
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16605,32,539740
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16850,32,547708
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16799,32,546056
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16955,32,551120
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16752,32,544520
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16635,32,540720
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16611,32,539932
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16398,32,533024
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16506,32,536532
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16419,32,533708
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16797,32,545992
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16929,32,550264
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16360,32,531768
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16322,32,530552
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16963,32,551388
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16817,32,546640
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16860,32,548036
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16739,32,544108
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16653,32,541308
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16490,32,536012
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16785,32,545604
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16677,32,542104
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16683,32,542276
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16503,32,536436
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,16935,32,550472
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-6
+120,17042,32,553956

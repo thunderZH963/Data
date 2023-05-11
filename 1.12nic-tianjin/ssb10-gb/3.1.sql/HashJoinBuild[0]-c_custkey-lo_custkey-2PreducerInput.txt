@@ -1,0 +1,2 @@
+ 节点name: HashJoinBuild[0]-c_custkey-lo_custkey-2
+1,60535,0,1117831

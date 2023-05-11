@@ -1,0 +1,2 @@
+ 节点name: HashJoinBuild[0]-s_suppkey-lo_suppkey-8
+1,76,0,1696

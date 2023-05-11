@@ -1,0 +1,2 @@
+ 节点name: HashJoinProbe[0]-p_partkey-lo_partkey-2
+10351,4132,4132

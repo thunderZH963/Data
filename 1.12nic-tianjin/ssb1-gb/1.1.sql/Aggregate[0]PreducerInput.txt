@@ -1,0 +1,26 @@
+ 节点name: Aggregate[0]
+13,9047,0,144752
+ 节点name: Aggregate[0]
+13,9195,0,147120
+ 节点name: Aggregate[0]
+13,9421,0,150736
+ 节点name: Aggregate[0]
+13,9010,0,144160
+ 节点name: Aggregate[0]
+13,8996,0,143936
+ 节点name: Aggregate[0]
+13,9260,0,148160
+ 节点name: Aggregate[0]
+13,9236,0,147776
+ 节点name: Aggregate[0]
+13,9025,0,144400
+ 节点name: Aggregate[0]
+13,9263,0,148208
+ 节点name: Aggregate[0]
+13,9099,0,145584
+ 节点name: Aggregate[0]
+13,9199,0,147184
+ 节点name: Aggregate[0]
+13,9003,0,144048
+ 节点name: Aggregate[0]
+13,9086,0,145376

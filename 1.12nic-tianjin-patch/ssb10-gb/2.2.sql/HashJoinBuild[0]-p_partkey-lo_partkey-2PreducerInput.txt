@@ -1,0 +1,4 @@
+ 节点name: HashJoinBuild[0]-p_partkey-lo_partkey-2
+2,3151,0,66995
+ 节点name: HashJoinBuild[0]-p_partkey-lo_partkey-2
+2,3258,0,69274

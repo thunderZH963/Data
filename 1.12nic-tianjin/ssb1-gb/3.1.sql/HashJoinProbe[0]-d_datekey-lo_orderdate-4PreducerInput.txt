@@ -1,0 +1,26 @@
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103267,34,3532693
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103821,34,3550899
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103175,34,3529849
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103321,34,3534651
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103583,34,3543705
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,104104,34,3560582
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103628,34,3545104
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103926,34,3554884
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103982,34,3557054
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103744,34,3549402
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103880,34,3554384
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103211,34,3530753
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-4
+13,103793,34,3551009

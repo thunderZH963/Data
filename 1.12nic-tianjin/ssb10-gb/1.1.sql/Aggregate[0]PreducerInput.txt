@@ -1,0 +1,240 @@
+ 节点name: Aggregate[0]
+120,10238,0,163808
+ 节点name: Aggregate[0]
+120,10005,0,160080
+ 节点name: Aggregate[0]
+120,9833,0,157328
+ 节点name: Aggregate[0]
+120,9913,0,158608
+ 节点name: Aggregate[0]
+120,10091,0,161456
+ 节点name: Aggregate[0]
+120,9883,0,158128
+ 节点name: Aggregate[0]
+120,10100,0,161600
+ 节点name: Aggregate[0]
+120,9931,0,158896
+ 节点name: Aggregate[0]
+120,9925,0,158800
+ 节点name: Aggregate[0]
+120,9976,0,159616
+ 节点name: Aggregate[0]
+120,9951,0,159216
+ 节点name: Aggregate[0]
+120,10078,0,161248
+ 节点name: Aggregate[0]
+120,9982,0,159712
+ 节点name: Aggregate[0]
+120,9939,0,159024
+ 节点name: Aggregate[0]
+120,9974,0,159584
+ 节点name: Aggregate[0]
+120,9907,0,158512
+ 节点name: Aggregate[0]
+120,10084,0,161344
+ 节点name: Aggregate[0]
+120,10141,0,162256
+ 节点name: Aggregate[0]
+120,9835,0,157360
+ 节点name: Aggregate[0]
+120,9942,0,159072
+ 节点name: Aggregate[0]
+120,9897,0,158352
+ 节点name: Aggregate[0]
+120,9796,0,156736
+ 节点name: Aggregate[0]
+120,10110,0,161760
+ 节点name: Aggregate[0]
+120,9854,0,157664
+ 节点name: Aggregate[0]
+120,9951,0,159216
+ 节点name: Aggregate[0]
+120,9899,0,158384
+ 节点name: Aggregate[0]
+120,9968,0,159488
+ 节点name: Aggregate[0]
+120,9891,0,158256
+ 节点name: Aggregate[0]
+120,9802,0,156832
+ 节点name: Aggregate[0]
+120,10048,0,160768
+ 节点name: Aggregate[0]
+120,10035,0,160560
+ 节点name: Aggregate[0]
+120,9852,0,157632
+ 节点name: Aggregate[0]
+120,10054,0,160864
+ 节点name: Aggregate[0]
+120,10063,0,161008
+ 节点name: Aggregate[0]
+120,9838,0,157408
+ 节点name: Aggregate[0]
+120,9807,0,156912
+ 节点name: Aggregate[0]
+120,10143,0,162288
+ 节点name: Aggregate[0]
+120,10004,0,160064
+ 节点name: Aggregate[0]
+120,9935,0,158960
+ 节点name: Aggregate[0]
+120,10105,0,161680
+ 节点name: Aggregate[0]
+120,10000,0,160000
+ 节点name: Aggregate[0]
+120,9945,0,159120
+ 节点name: Aggregate[0]
+120,9893,0,158288
+ 节点name: Aggregate[0]
+120,10125,0,162000
+ 节点name: Aggregate[0]
+120,9996,0,159936
+ 节点name: Aggregate[0]
+120,9960,0,159360
+ 节点name: Aggregate[0]
+120,10053,0,160848
+ 节点name: Aggregate[0]
+120,9975,0,159600
+ 节点name: Aggregate[0]
+120,10169,0,162704
+ 节点name: Aggregate[0]
+120,9891,0,158256
+ 节点name: Aggregate[0]
+120,9974,0,159584
+ 节点name: Aggregate[0]
+120,9905,0,158480
+ 节点name: Aggregate[0]
+120,9761,0,156176
+ 节点name: Aggregate[0]
+120,10059,0,160944
+ 节点name: Aggregate[0]
+120,9863,0,157808
+ 节点name: Aggregate[0]
+120,9918,0,158688
+ 节点name: Aggregate[0]
+120,10035,0,160560
+ 节点name: Aggregate[0]
+120,10074,0,161184
+ 节点name: Aggregate[0]
+120,9876,0,158016
+ 节点name: Aggregate[0]
+120,10176,0,162816
+ 节点name: Aggregate[0]
+120,9962,0,159392
+ 节点name: Aggregate[0]
+120,10069,0,161104
+ 节点name: Aggregate[0]
+120,10006,0,160096
+ 节点name: Aggregate[0]
+120,10157,0,162512
+ 节点name: Aggregate[0]
+120,9974,0,159584
+ 节点name: Aggregate[0]
+120,10013,0,160208
+ 节点name: Aggregate[0]
+120,9853,0,157648
+ 节点name: Aggregate[0]
+120,9923,0,158768
+ 节点name: Aggregate[0]
+120,9992,0,159872
+ 节点name: Aggregate[0]
+120,10000,0,160000
+ 节点name: Aggregate[0]
+120,10205,0,163280
+ 节点name: Aggregate[0]
+120,10043,0,160688
+ 节点name: Aggregate[0]
+120,9732,0,155712
+ 节点name: Aggregate[0]
+120,10080,0,161280
+ 节点name: Aggregate[0]
+120,9984,0,159744
+ 节点name: Aggregate[0]
+120,9949,0,159184
+ 节点name: Aggregate[0]
+120,10018,0,160288
+ 节点name: Aggregate[0]
+120,9887,0,158192
+ 节点name: Aggregate[0]
+120,9995,0,159920
+ 节点name: Aggregate[0]
+120,10132,0,162112
+ 节点name: Aggregate[0]
+120,9849,0,157584
+ 节点name: Aggregate[0]
+120,9902,0,158432
+ 节点name: Aggregate[0]
+120,10015,0,160240
+ 节点name: Aggregate[0]
+120,9808,0,156928
+ 节点name: Aggregate[0]
+120,10077,0,161232
+ 节点name: Aggregate[0]
+120,9882,0,158112
+ 节点name: Aggregate[0]
+120,9795,0,156720
+ 节点name: Aggregate[0]
+120,9822,0,157152
+ 节点name: Aggregate[0]
+120,10113,0,161808
+ 节点name: Aggregate[0]
+120,10116,0,161856
+ 节点name: Aggregate[0]
+120,9642,0,154272
+ 节点name: Aggregate[0]
+120,9710,0,155360
+ 节点name: Aggregate[0]
+120,9830,0,157280
+ 节点name: Aggregate[0]
+120,9919,0,158704
+ 节点name: Aggregate[0]
+120,9924,0,158784
+ 节点name: Aggregate[0]
+120,10084,0,161344
+ 节点name: Aggregate[0]
+120,9886,0,158176
+ 节点name: Aggregate[0]
+120,9972,0,159552
+ 节点name: Aggregate[0]
+120,10071,0,161136
+ 节点name: Aggregate[0]
+120,9777,0,156432
+ 节点name: Aggregate[0]
+120,10014,0,160224
+ 节点name: Aggregate[0]
+120,9855,0,157680
+ 节点name: Aggregate[0]
+120,9802,0,156832
+ 节点name: Aggregate[0]
+120,9877,0,158032
+ 节点name: Aggregate[0]
+120,9860,0,157760
+ 节点name: Aggregate[0]
+120,9807,0,156912
+ 节点name: Aggregate[0]
+120,9731,0,155696
+ 节点name: Aggregate[0]
+120,9827,0,157232
+ 节点name: Aggregate[0]
+120,9859,0,157744
+ 节点name: Aggregate[0]
+120,9945,0,159120
+ 节点name: Aggregate[0]
+120,9884,0,158144
+ 节点name: Aggregate[0]
+120,9852,0,157632
+ 节点name: Aggregate[0]
+120,9991,0,159856
+ 节点name: Aggregate[0]
+120,9978,0,159648
+ 节点name: Aggregate[0]
+120,10072,0,161152
+ 节点name: Aggregate[0]
+120,9998,0,159968
+ 节点name: Aggregate[0]
+120,9956,0,159296
+ 节点name: Aggregate[0]
+120,9742,0,155872
+ 节点name: Aggregate[0]
+120,9920,0,158720
+ 节点name: Aggregate[0]
+120,10011,0,160176

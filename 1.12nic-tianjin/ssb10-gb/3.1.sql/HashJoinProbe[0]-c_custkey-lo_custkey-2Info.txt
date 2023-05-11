@@ -1,0 +1,2 @@
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-2
+10935452,2199936,2199936

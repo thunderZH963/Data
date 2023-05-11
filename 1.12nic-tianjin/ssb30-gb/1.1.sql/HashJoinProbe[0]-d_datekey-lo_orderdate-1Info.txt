@@ -1,0 +1,2 @@
+ 节点name: HashJoinProbe[0]-d_datekey-lo_orderdate-1
+23569442,3581817,3581817

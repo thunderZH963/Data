@@ -1,0 +1,2 @@
+ 节点name: HashJoinBuild[0]-d_datekey-lo_orderdate-4
+1,2556,0,40896

@@ -1,0 +1,2 @@
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-4
+59986052,11914036,11914036

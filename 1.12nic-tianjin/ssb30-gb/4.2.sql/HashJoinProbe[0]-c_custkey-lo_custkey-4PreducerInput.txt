@@ -1,0 +1,720 @@
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30583,51,1578256
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30755,51,1587634
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30541,51,1576072
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30319,51,1565340
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31367,51,1619035
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30762,51,1587860
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30811,51,1591013
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30487,51,1573005
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30415,51,1569853
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30752,51,1587640
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30349,51,1567058
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30818,51,1590474
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30246,51,1560805
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30740,51,1586927
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30732,51,1587258
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30708,51,1586029
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30785,51,1589397
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30898,51,1595200
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30504,51,1574288
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30779,51,1589567
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30447,51,1571760
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30561,51,1577172
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30438,51,1571231
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30723,51,1586235
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30769,51,1587976
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30686,51,1583985
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30202,51,1558810
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30524,51,1575136
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30594,51,1578980
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30175,51,1557086
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30392,51,1568829
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30476,51,1572193
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30672,51,1583143
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30523,51,1575865
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31024,51,1600673
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30809,51,1590347
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30245,51,1561269
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30662,51,1582570
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30502,51,1573550
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30759,51,1586941
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30253,51,1561940
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30771,51,1589044
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30523,51,1574808
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30427,51,1569947
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30754,51,1587003
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30470,51,1572547
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30750,51,1586040
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30634,51,1580698
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30453,51,1571386
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30895,51,1594238
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30641,51,1581394
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30567,51,1578061
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30542,51,1575689
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30785,51,1587435
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30844,51,1591879
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30603,51,1580646
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30145,51,1555793
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30507,51,1575165
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31151,51,1607201
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30387,51,1568832
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30752,51,1586638
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31032,51,1601829
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30915,51,1595335
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30728,51,1587429
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30909,51,1595422
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30252,51,1562653
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30710,51,1584768
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30790,51,1589603
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30773,51,1589170
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30250,51,1559685
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30427,51,1570445
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30122,51,1553539
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30778,51,1588397
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30292,51,1564084
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30717,51,1585483
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30755,51,1587195
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30339,51,1566293
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30176,51,1557921
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30955,51,1597158
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30771,51,1587923
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30635,51,1581123
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30718,51,1585287
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30925,51,1596767
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30590,51,1579314
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30331,51,1564765
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30584,51,1578222
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30717,51,1585465
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30346,51,1566129
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30422,51,1569941
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30195,51,1559397
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30450,51,1571444
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30355,51,1566352
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30855,51,1593613
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30427,51,1571107
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30391,51,1567694
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30753,51,1586880
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30497,51,1573225
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30310,51,1564304
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30488,51,1573966
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30483,51,1573643
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30221,51,1560280
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30639,51,1581054
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30631,51,1581309
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30461,51,1572173
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30353,51,1567403
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30712,51,1584895
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30165,51,1556075
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30607,51,1579493
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30282,51,1562261
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30470,51,1572592
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30428,51,1569747
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30671,51,1583126
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30345,51,1566271
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30220,51,1560082
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30705,51,1585048
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30432,51,1571280
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30813,51,1589677
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30479,51,1574032
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30610,51,1579217
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31079,51,1604522
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30250,51,1561392
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30470,51,1573117
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30441,51,1572236
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30405,51,1569787
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30437,51,1570858
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30390,51,1568350
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30427,51,1571012
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30671,51,1582496
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30415,51,1570158
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30593,51,1579975
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30487,51,1574137
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30192,51,1558189
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30500,51,1573909
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30748,51,1585578
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30604,51,1580360
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30258,51,1562524
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30167,51,1556916
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30486,51,1573770
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30505,51,1574751
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30717,51,1584655
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30644,51,1582073
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30525,51,1575478
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30313,51,1564583
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30948,51,1597331
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30606,51,1580374
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30363,51,1567231
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30375,51,1567375
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30396,51,1569345
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30568,51,1577641
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30393,51,1568967
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30632,51,1581216
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30541,51,1576499
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30426,51,1569568
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30748,51,1586696
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30018,51,1549709
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30495,51,1574670
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30503,51,1574873
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30357,51,1566716
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30597,51,1579640
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30952,51,1597337
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30558,51,1577236
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30472,51,1572592
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30711,51,1585354
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30507,51,1575372
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30772,51,1588002
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30779,51,1588596
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30147,51,1555847
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30540,51,1576593
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30436,51,1570979
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30795,51,1589504
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30154,51,1556557
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30655,51,1582456
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30086,51,1551892
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30136,51,1555091
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30798,51,1589065
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30695,51,1584476
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30323,51,1565058
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30688,51,1583749
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30290,51,1563409
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30288,51,1563747
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30687,51,1584008
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30449,51,1571469
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30671,51,1582058
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30218,51,1559023
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30950,51,1597812
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30636,51,1580949
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30278,51,1563211
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30597,51,1579023
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30489,51,1573992
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30225,51,1560453
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30711,51,1584945
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30979,51,1599091
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30897,51,1595358
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30906,51,1595611
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30578,51,1577643
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30503,51,1572752
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31068,51,1603182
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30711,51,1585088
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30426,51,1570421
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30555,51,1576943
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30378,51,1568165
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30055,51,1551080
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30499,51,1574789
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30322,51,1564496
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30672,51,1583285
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30334,51,1565374
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30305,51,1564596
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30329,51,1565008
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30618,51,1580232
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30185,51,1558459
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30741,51,1585942
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30199,51,1558465
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30825,51,1591092
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30901,51,1594663
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30880,51,1593788
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30624,51,1580691
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30477,51,1572465
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30635,51,1581332
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30063,51,1552038
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30340,51,1566307
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30343,51,1566489
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30323,51,1565709
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30662,51,1583228
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30376,51,1567945
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30565,51,1576682
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30362,51,1567725
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30321,51,1565259
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30302,51,1563545
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30508,51,1574474
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30593,51,1578377
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30738,51,1586337
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30603,51,1579005
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30440,51,1571704
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30534,51,1575844
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30606,51,1578756
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30284,51,1562664
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30820,51,1590423
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30387,51,1569572
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30580,51,1578052
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30277,51,1562895
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30507,51,1575066
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30186,51,1559229
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30555,51,1577474
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30653,51,1582707
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30718,51,1585295
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30408,51,1569462
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30583,51,1578147
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30371,51,1568599
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30357,51,1567114
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30217,51,1559567
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30252,51,1561683
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30604,51,1579460
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30812,51,1590077
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30339,51,1565270
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30554,51,1576700
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30602,51,1579902
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30614,51,1578746
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30862,51,1592574
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30449,51,1570975
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30660,51,1582426
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30526,51,1576538
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30264,51,1560537
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30741,51,1586228
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30298,51,1563550
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30471,51,1573085
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30915,51,1595141
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30373,51,1567375
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30900,51,1594663
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30784,51,1588806
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30603,51,1579512
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30296,51,1563339
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30094,51,1553029
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,29978,51,1547477
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30100,51,1552858
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30845,51,1592058
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30906,51,1596073
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30504,51,1573733
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30700,51,1584370
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30684,51,1584118
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30686,51,1583418
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30632,51,1581227
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30869,51,1592516
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30454,51,1571931
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30606,51,1580080
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30312,51,1564441
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30511,51,1575216
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30609,51,1579402
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30123,51,1554769
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30556,51,1576618
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30207,51,1559300
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30498,51,1573755
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30454,51,1571467
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30406,51,1568960
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30439,51,1571244
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30727,51,1584771
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30364,51,1567422
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30458,51,1571314
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30677,51,1583372
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30635,51,1581053
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30508,51,1573524
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30478,51,1573980
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30789,51,1588257
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30322,51,1565616
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30417,51,1570271
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30352,51,1565932
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31167,51,1608074
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30716,51,1585874
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30617,51,1580489
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30609,51,1580482
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30549,51,1576634
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30443,51,1571588
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30974,51,1598497
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30716,51,1584808
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30596,51,1578855
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30456,51,1572049
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30657,51,1582713
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30549,51,1577299
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30476,51,1572258
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30724,51,1585552
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30334,51,1564995
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30262,51,1561670
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30095,51,1553776
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30362,51,1567006
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30585,51,1578326
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30189,51,1557962
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30745,51,1586888
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30467,51,1572683
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30553,51,1577123
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30539,51,1576297
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30466,51,1572719
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30326,51,1564182
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30505,51,1573380
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,29841,51,1540628
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30936,51,1596180
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30632,51,1580433
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30653,51,1581933
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30589,51,1578296
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30619,51,1579471
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30852,51,1591985
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30657,51,1582640
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30576,51,1578365
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30693,51,1583692
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30255,51,1561981
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30607,51,1579871
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,31051,51,1602378
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30739,51,1585466
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30289,51,1562761
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30626,51,1580386
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30439,51,1571351
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30720,51,1585227
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30569,51,1578380
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30636,51,1580605
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30752,51,1586572
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30684,51,1583831
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30661,51,1582204
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30430,51,1571203
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30583,51,1578772
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30091,51,1553512
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30731,51,1585730
+ 节点name: HashJoinProbe[0]-c_custkey-lo_custkey-4
+360,30776,51,1588322

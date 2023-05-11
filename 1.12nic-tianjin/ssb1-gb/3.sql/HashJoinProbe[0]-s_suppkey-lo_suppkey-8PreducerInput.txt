@@ -1,0 +1,26 @@
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,18961,48,924462
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19337,48,942780
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,18822,48,917706
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19184,48,935346
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19149,48,933648
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,18777,48,915492
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19002,48,926478
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,18955,48,924174
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19395,48,945612
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19203,48,936264
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19264,48,939222
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,18797,48,916476
+ 节点name: HashJoinProbe[0]-s_suppkey-lo_suppkey-8
+13,19249,48,938490
